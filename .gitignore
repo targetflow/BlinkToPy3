@@ -111,3 +111,6 @@ local/
 
 # Dolphin
 .directory
+
+# Local data 
+data/
