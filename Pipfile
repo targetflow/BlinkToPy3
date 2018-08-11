@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 ipython = "==5"
 jupyter = "*"
+jupyterlab = "*"
 
 [dev-packages]
 
